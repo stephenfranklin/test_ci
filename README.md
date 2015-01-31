@@ -1,2 +1,2 @@
 # test_ci
-testing programs such as Jenkins.
+testing continuous integration  programs such as Jenkins.
