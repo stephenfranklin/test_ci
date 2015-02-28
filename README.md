@@ -4,3 +4,6 @@ testing continuous integration  programs such as Jenkins.
 
 testing with selenium
 12
+
+testing on laplace ubuntu vm with selenium
+1
